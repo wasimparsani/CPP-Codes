@@ -1,8 +1,8 @@
-#include<bits/stdc++.h>
+#include<bits/stdc++.h> //This code is to check whether a number is prime or not
 using namespace std;
 vector <int> v;
 
-int check()
+int check()    //function returning value
 {
 	int i,cnt=0,sum=v[0];
 	vector<int> :: iterator it;
@@ -42,6 +42,6 @@ int main()
 			v.push_back(i);
 	check();
 
-		
+	return 0;	
 			
 }
