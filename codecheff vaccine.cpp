@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<bits/stdc++.h> //codecheff problem don't spam
 using namespace std;
 #define TEZ ios_base::sync_with_stdio(false);cin.tie(nullptr);cout.tie(nullptr);
 int d1,d2,v1,v2,p,i,sum=0;

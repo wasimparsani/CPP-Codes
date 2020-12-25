@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <bits/stdc++.h>    //this code is codecheff challenge code don't spam the code
 using namespace std;
 long int t,i,p,n,p1,p2;
 int main()
